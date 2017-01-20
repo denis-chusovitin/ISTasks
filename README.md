@@ -40,3 +40,13 @@ RMSE: 0.899845341792
 Македонский | 0.6872 | 0.9295 | 0.9739 | 0.9854 | 0.9881 |
 Казахский   | 0.9971 | 0.9971 | 0.9971 | 1.0    | 0.9986 |
 
+## Deep neural network
+
+Данные: https://www.kaggle.com/c/dogs-vs-cats/data
+
+Сеть тренировалась с помощью caffe. Приведены скрипты для подготовки данных и классификации изображений.
+Также приведены результаты классификации тестовых данных (test1 по ссылке).
+Тренировка проведена на 15 000 итераций. Итоговая точность: 0,871362
+
+![alt tag](https://raw.githubusercontent.com/denis-chusovitin/ISTasks/master/Cats%20vs%20Dogs%20Net/Learning%20plot.PNG)
+Натренированная сеть: https://drive.google.com/open?id=0Bw8Tvi68Dp2uWlB6VFhsU2tEaWs
