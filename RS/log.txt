@@ -1,0 +1,15 @@
+Reading data..
+Done.
+Users: 1019317, Tracks: 384545, Users-Tracks: 48373586, Train set: 815453
+Training...
+Iteration: 1, RMSE: 0.161825353259
+Iteration: 2, RMSE: 0.160379462253
+Iteration: 3, RMSE: 0.159771178716
+Iteration: 4, RMSE: 0.1594499205
+Iteration: 5, RMSE: 0.15925770124
+Iteration: 6, RMSE: 0.159137294707
+Iteration: 7, RMSE: 0.159060192942
+Done.
+Testing..
+Done.
+RMSE:  0.899845341792
